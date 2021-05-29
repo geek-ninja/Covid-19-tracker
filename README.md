@@ -18,19 +18,37 @@
   <h3>npm install @material-ui/core</h3>
   <h3>npm install @material-ui/icons/<h3>
   <h3>npm i leaflet</h3>
+  <h3>npm i react-leaflet</h3>
   <h3>npm i numeral</h3>
   <h3>npm install chart.js</h3>
   <h3>npm i react-chartjs-2</h3>
   <h3>npm i react-dom</h3>
   
 <p>Api used</p>
-[API](https://disease.sh/v3/covid-19/all)
+https://disease.sh/v3/covid-19/all
 
   <p>After installations of the packages replace the src folder with your react app created </p>
   <h3>npm run build</h3>
   <p>The above command will build the final project</p>
+ 
+<h2>Hosting</h2>
+  <p>Creat your firebase account then in command line use the following commands</p>
+  <p>firebase login<p>
+  <p>Login to your firebase account using command line</p>
+  <p>firebase init</p>
+  <p>Select existing project and choose the project name that you have created in firebase website</p>
+  <p>Then type 'y' for yes and then then type 'build' to create the host</p>
+  
+  <h3>Project Screenshot</h3>
+  
+  ![](1.png)
+  
+  ![](2.png)
+  
+  ![](3.png)
+  
   
   <h3>For more detail follow this youtube video</h3>
-  [youtube video](https://www.youtube.com/watch?v=cF3pIMJUZxM&t=15623s)
+  https://www.youtube.com/watch?v=cF3pIMJUZxM&t=15623s
   
-  
+ 
