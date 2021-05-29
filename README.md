@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
-[website Link](https://covid-tracker-204df.web.app/)
+[Covid-19-tracker-website Link](https://covid-tracker-204df.web.app/)
 
 <p>This is a reactjs based project along with api and hosted on firebase server</p>
 <h2>How To Run</h2>
