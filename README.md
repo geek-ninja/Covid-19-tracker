@@ -16,7 +16,7 @@
 <p>Now install few modules for the app</p>
   <h3>npm i firebase</h3>
   <h3>npm install @material-ui/core</h3>
-  <h3>npm install @material-ui/icons/<h3>
+  <h3>npm install @material-ui/icons<h3>
   <h3>npm i leaflet</h3>
   <h3>npm i react-leaflet</h3>
   <h3>npm i numeral</h3>
