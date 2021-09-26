@@ -9,9 +9,9 @@
 <p>This is a reactjs based project along with api and hosted on firebase server</p>
 <h2>How To Run</h2>
 <h3>Command</h3>
-<h3>npm create-react-app your_project_name</h3>
+<h3>npx create-react-app your_project_name</h3>
 <p>The above command with setup your react app</p>
-<h3>npm run</h3>
+<h3>npm start</h3>
 <p>The above command will run your app on localhost</p>
 <p>Now install few modules for the app</p>
   <h3>npm i firebase</h3>
